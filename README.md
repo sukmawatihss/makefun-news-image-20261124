@@ -13,7 +13,9 @@ checked against that day. The lead is hard news — COP31 ends with no
 deal, the first since 2000 — over a number strip, a region count bar, a
 dotted world map whose pins match the story numbers, a UTC timeline,
 13 full scene cards and briefs 14–34, plus a DATE CHECK box naming the
-earlier stories this page deliberately leaves out.
+earlier stories this page deliberately leaves out. THE SOUTHERN CROSS
+leads with the COP31 outcome and gathers all 34 dated stories from its
+9 regions into this single Tuesday front page.
 
 `main.py` (standard library only) carries the finished page: it reads
 `entry.png`, verifies the gate (exactly 1024x1024, at most 1 MiB) and
